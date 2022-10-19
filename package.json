@@ -4,14 +4,15 @@
   "description": "webpack实验项目",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luMingSite/webpack-experiment.git"
   },
-  "author": "",
+  "author": "baiYuZhe",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luMingSite/webpack-experiment/issues"
