@@ -1,0 +1,23 @@
+{
+  "name": "webpack-experiment",
+  "version": "1.0.0",
+  "description": "webpack实验项目",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luMingSite/webpack-experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luMingSite/webpack-experiment/issues"
+  },
+  "homepage": "https://github.com/luMingSite/webpack-experiment#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
